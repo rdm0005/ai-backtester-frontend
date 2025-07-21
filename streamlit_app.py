@@ -5,7 +5,7 @@ import altair as alt
 
 FASTAPI_URL = "https://web-production-c5eac.up.railway.app/backtest_mvp"
 
-st.set_page_config(page_title="SPY Rolling Strategies Backtester", layout="wide")
+st.set_page_config(page_title="AI Backtester", layout="wide")
 st.title("📈 SPY Rolling Strategy Backtester")
 
 # === Sidebar Inputs ===
