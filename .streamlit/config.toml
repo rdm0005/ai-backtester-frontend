@@ -1,0 +1,13 @@
+[server]
+headless = true
+
+[theme]
+base = "light"          # "light" or "dark"
+primaryColor = "#0E76A8"  # Nice blue
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#000000"
+font = "sans serif"      # options: "sans serif", "serif", "monospace"
+
+[ui]
+hideTopBar = false       # true = hide the Streamlit hamburger menu
